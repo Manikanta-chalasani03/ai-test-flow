@@ -334,7 +334,8 @@ Month 12    ░░░░░░░░░░░░░░░░░░░░  Public
 ## 👨‍💻 Author
 
 **Manikanta Chalasani**
-Frontend Engineer | FinTech & Trading Systems | System Design
+QA Automation Engineer | Automation Framework Development | CI/CD | 4+ Years Experience
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikantachalasani08@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
